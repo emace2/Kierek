@@ -1,0 +1,19 @@
+VR (tylko wariant meadows póki co):
+
+Główny zamysł to pomieszanie mechanik z VR'owej gry The Climb z Gravittenową zmianą grawitacji
+
+modele rąk (kocich łapek? coś takiego: https://www.youtube.com/watch?v=DLXLT6YCD6c)
+jakieś uchwyty wspinaczkowe których gracz będzie się łapał na ścianach, będą nakładane na bloki
+obrotowa podstawa na której można zamontować uchwyt, po złapaniu się takiego uchwytu gracz razem z uchwytem się obracają
+drugi wariant obrotowej podstawy z przyciskiem, przycisk będzie służył do zmiany grawitacji
+
+
+Kolejny biom, podwodny. Wszystkie standardowe elementy do podwodnego biomu, czyli:
+postać
+portal
+skybox
+blok standardowy (+ wariant obcięty)
+blok zniszczony
+znajdźka
+bouncer
+kolce
